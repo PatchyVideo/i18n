@@ -11,5 +11,15 @@
   "search_result": "搜索结果 - {result}",
   "syntax_error": "查询语法错误！",
   "syntax_error_not": "所输入的查询不能与NOT连用！",
-  "see_uploaders": "查看上传者"
+  "see_uploaders": "查看上传者",
+  "nodesc": "此视频没有简介哦",
+  "copy_link": {
+    "title": "分享链接",
+    "info": "视频链接复制 {status}！",
+    "confirm": "确定",
+    "status": {
+      "ok": "成功",
+      "fail": "失败"
+    }
+  }
 }
