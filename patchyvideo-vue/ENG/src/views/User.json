@@ -1,0 +1,13 @@
+{
+  "title": "Create playlist",
+  "me": {
+    "tab1": "Profile",
+    "tab2": "My posts",
+    "tab3": "My folder",
+    "tab4": "My playlists",
+    "tab5": "Post status",
+    "tab6": "Blacklist",
+    "tab7": "Subscribed"
+  },
+  "outer_user": { "tab1": "Profile", "tab2": "Posts", "tab3": "Folder", "tab4": "Playlists" }
+}

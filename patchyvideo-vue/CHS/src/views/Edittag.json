@@ -1,0 +1,13 @@
+{
+  "title": "编辑标签",
+  "search_tag": "搜索标签",
+  "tag_categories": {
+    "General": "综合",
+    "Character": "角色",
+    "Copyright": "作品",
+    "Author": "up主",
+    "Meta": "元数据",
+    "Language": "语言",
+    "Soundtrack": "原曲"
+  }
+}

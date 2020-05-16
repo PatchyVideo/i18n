@@ -1,0 +1,12 @@
+{
+  "score": "评分",
+  "submit": "提交",
+  "average": "均分",
+  "evaluation": "评价",
+  "login": "登录",
+  "prompt": "提示",
+  "OK": "确 定",
+  "prompt_content": "你还没有评分！无法提交！",
+  "success_prompt": "打分{rating}分成功！",
+  "show_my_score": "我的评分：{myScore}\n均分：{aveScore}"
+}

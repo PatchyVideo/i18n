@@ -1,0 +1,8 @@
+{
+  "title": "playlists",
+  "create_playList": "Create playlist",
+  "search": { "input_tip": "Search list...", "btn": "Search", "downlist": { "latest": "Latest", "oldest": "Oldest", "last_modified": "Last Modified" } },
+  "err_tip": "No playlist found",
+  "statistics": "Total {count} videos",
+  "author": "Creator:"
+}

@@ -1,0 +1,20 @@
+{
+  "tag": {
+    "title": "Tag",
+    "title2": "Popular Tags",
+    "title3": "Related Tags",
+    "video_action": "[Post video with tags]",
+    "prompt_action": "[View tag history]",
+    "edit": "Edit"
+  },
+  "tag_history": { "prompt": "Tag History", "add": "Added:", "del": "Removed:", "empty": "No record found" },
+  "categories": {
+    "General": "General",
+    "Character": "Character",
+    "Copyright": "Copyright",
+    "Author": "Author",
+    "Meta": "Meta",
+    "Language": "Language",
+    "Soundtrack": "Soundtrack"
+  }
+}

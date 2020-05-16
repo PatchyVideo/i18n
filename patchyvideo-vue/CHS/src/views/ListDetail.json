@@ -1,0 +1,26 @@
+{
+  "btn_group": {
+    "add_video": "添加视频",
+    "import_from_other": "从其他网站的收藏夹导入",
+    "add_favorite": "加入收藏",
+    "edit_list_info": "编辑列表信息",
+    "edit_common_tags": "编辑共有标签",
+    "reverse_list": "列表视频倒序",
+    "delete": "删除"
+  },
+  "vedio_chain_tip": "在此插入视频",
+  "edit_list_info_dialog": {
+    "title": "编辑视频详情",
+    "list_title_tip": "这里是列表标题",
+    "list_title_err_tip": "还没输入标题呢",
+    "list_introduction_tip": "来介绍一下自己的列表吧",
+    "list_introduction_err_tip": "不来介绍一下列表吗？",
+    "set_private_list": "设为私有列表",
+    "btn_ok": "确认修改",
+    "btn_cancel": "取 消"
+  },
+  "delete_dialog": { "title": "提示", "content": "确认删除吗？", "btn_ok": "确定", "btn_cancel": "取 消" },
+  "commit_tip": "提交成功",
+  "oper_tip": "操作成功",
+  "delete_tip": "删除成功"
+}

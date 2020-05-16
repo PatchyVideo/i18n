@@ -1,0 +1,29 @@
+{
+  "favorite": "Add to playlist",
+  "modify": "Change",
+  "copy": "Copies",
+  "add_copy": "Add copies",
+  "del_copy": "Delete copies",
+  "sync_replica_label": "Synchronize copies tags",
+  "sync_replica_label_from": "Sync tags from this video",
+  "playlist": "Playlists",
+  "management": "Video Level Management",
+  "other": "Other",
+  "official": "Original",
+  "official_repost": "Official Repost",
+  "authorized_translation": "Authorized Translation",
+  "authorized_repost": "Authorized Repost",
+  "translation": "User Translation",
+  "repost": "User Repost",
+  "unknown": "Other",
+  "previous_article": "Previous video",
+  "no_previous_article": "No previous video",
+  "next_article": "Next video",
+  "no_next_article": "No next video",
+  "infotip": {
+    "release_type": "Please select repost type for this video",
+    "nocopies": "No copies exist for this video",
+    "noplaylist": "This video is not included in any playlists",
+    "create_playlist": "Create playlist from this video"
+  }
+}

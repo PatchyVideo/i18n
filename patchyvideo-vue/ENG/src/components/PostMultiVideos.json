@@ -1,0 +1,13 @@
+{
+  "enter_url_prompt": "Please enter video URLs, separated by line breaks",
+  "tag": "Tags",
+  "no_tag": "No tags!",
+  "advance": "Advance",
+  "PostRules": "Post rules",
+  "mutually_copies": "Mutually copies",
+  "post_video": "Post video",
+  "post_failed": "Upload failed",
+  "tag_not_exist": "Tag {tag} does not exist",
+  "post_succeed": "Upload succeed",
+  "unknown_error": "Unknown error, please report bug"
+}

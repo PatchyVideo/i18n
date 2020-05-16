@@ -1,0 +1,12 @@
+{
+  "tag": {
+    "title": "标签",
+    "title2": "热门标签",
+    "title3": "相关标签",
+    "video_action": "[使用标签发布视频]",
+    "prompt_action": "[查看编辑标签历史]",
+    "edit": "编辑"
+  },
+  "tag_history": { "prompt": "标签编辑历史", "add": "添加:", "del": "删除:", "empty": "暂无记录!" },
+  "categories": { "General": "综合", "Character": "角色", "Copyright": "作品", "Author": "up主", "Meta": "元数据", "Language": "语言", "Soundtrack": "原曲" }
+}

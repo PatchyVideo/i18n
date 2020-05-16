@@ -1,0 +1,12 @@
+{
+  "score": "Score",
+  "submit": "Submit",
+  "average": "Average",
+  "evaluation": "Evaluation",
+  "login": "Login",
+  "prompt": "Prompt",
+  "OK": "O K",
+  "prompt_content": "You have not rated yet! Unable to submit!",
+  "success_prompt": "Successfully score {rating} points!",
+  "show_my_score": "My score：{myScore}\nThe average score：{aveScore}"
+}

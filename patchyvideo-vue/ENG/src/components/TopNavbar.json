@@ -1,0 +1,13 @@
+{
+  "navbar": { "index": "Home", "playlist": "Playlists", "postvideo": "Post Video", "edittag": "Tags" },
+  "search": { "tag_text": "Tag/Text", "text": "Text Only", "prompt": "Search...", "button": "Search" },
+  "user": {
+    "signup": "Sign up",
+    "login": "Log in",
+    "message": "Messages",
+    "logout": "Log out",
+    "logout_prompt": "Are you sure you want to log out?",
+    "login_expire_prompt": "Your session has expired. Please relogin"
+  },
+  "prompt": { "msg": "Are you sure?", "ok": "OK", "cancel": "Cancel" }
+}

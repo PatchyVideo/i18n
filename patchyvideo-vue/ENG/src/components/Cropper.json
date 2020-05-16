@@ -1,0 +1,17 @@
+{
+  "title": "Crop image",
+  "cancel": "Cancel",
+  "ok": "OK",
+  "upload_userphoto": "Upload photo",
+  "enter_url_prompt": "Please enter image URL",
+  "from_file": "Local files",
+  "from_url": "From URL",
+  "upload": "Upload",
+  "no_file_prompt": "Please choose your photo",
+  "file_size_prompt": "File size cannot exceed 2MB",
+  "upload_succeed": "Upload succeed",
+  "no_url_prompt": "Please enter image URL",
+  "INCORRECT_UPLOAD_TYPE": "File format not supported",
+  "upload_failed": "Upload failed",
+  "open_failed": "Open file failed"
+}

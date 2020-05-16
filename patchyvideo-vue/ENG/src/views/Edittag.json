@@ -1,0 +1,13 @@
+{
+  "title": "Edit tag",
+  "search_tag": "Search tag",
+  "tag_categories": {
+    "General": "General",
+    "Character": "Character",
+    "Copyright": "Copyright",
+    "Author": "Author",
+    "Meta": "Meta",
+    "Language": "Language",
+    "Soundtrack": "Soundtrack"
+  }
+}

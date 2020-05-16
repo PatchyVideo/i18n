@@ -1,0 +1,28 @@
+{
+  "favorite": "收藏",
+  "modify": "修改",
+  "copy": "副本",
+  "add_copy": "添加副本",
+  "del_copy": "删除副本",
+  "sync_replica_label": "同步副本标签",
+  "sync_replica_label_from": "从此副本同步标签",
+  "playlist": "播放列表",
+  "management": "视频等级管理",
+  "official": "原始发布",
+  "official_repost": "官方再发布",
+  "authorized_translation": "授权翻译",
+  "authorized_repost": "授权转载",
+  "translation": "自发翻译",
+  "repost": "自发搬运",
+  "unknown": "其他",
+  "previous_article": "前一篇",
+  "no_previous_article": "没有前一篇了哦",
+  "next_article": "后一篇",
+  "no_next_article": "没有后一篇了哦",
+  "infotip": {
+    "release_type": "请修改视频的发布类型",
+    "nocopies": "此视频不存在副本",
+    "noplaylist": "本视频不包含于任何播放列表中",
+    "create_playlist": "由此视频创建播放列表"
+  }
+}
