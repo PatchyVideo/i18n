@@ -1,1 +1,43 @@
-{ "title": "用户管理", "latest": "时间正序", "oldest": "时间倒序" }
+{
+  "title": "用户管理",
+  "latest": "时间正序",
+  "oldest": "时间倒序",
+  "edit_dialog": {
+    "title": "编辑用户: {username}",
+    "cancel": "取 消",
+    "confirm": "确 定"
+  },
+  "search": {
+    "submit": "查找",
+    "placeholder": "搜索用户名...",
+    "options": {
+      "latest": "时间正序",
+      "oldest": "时间倒序"
+    }
+  },
+  "user_info": {
+    "username": "用户名",
+    "avatar": "头像",
+    "desc": "描述",
+    "email": "邮箱",
+    "cdate": "创建日期",
+    "pubkey": "pubkey",
+    "blacklist": "黑名单设置",
+    "status": {
+      "label": "访问等级"
+    },
+    "access_mode": {
+      "label": "访问模式"
+    },
+    "allowed_ops": {
+      "label": "允许的操作"
+    },
+    "denied_ops": {
+      "label": "拒绝的操作"
+    },
+    "edit": {
+      "label": "操作",
+      "value": "编辑"
+    }
+  }
+}
