@@ -2,6 +2,8 @@
 
 PatchyVideo 翻译计划 / PatchyVideo Translation Project
 
+这是 PatchyVideo 的静态语言文件库，存放 PatchyVideo 各个项目的静态语言文件，同时欢迎贡献本库。
+
 ## 贡献翻译
 
 你想看到某个语言的 PatchyVideo 吗？我们需要帮助！
@@ -24,10 +26,18 @@ Comment 格式为 “📖/📘 \[项目\]说明”。
 若项目的所有条目未全部翻译完毕，最前的书图标应为打开状态，让后来者了解翻译进度。
 若未满足格式 Maintainer 会适当修改。
 
-## 各项目的语言格式
+## 各项目的语言文件说明
 
 ### patchyvideo-vue
+
+#### 格式
 
 所有语言为自动载入，每个语言文件与对应的组件对应。
 
 如：/src/components/homecompoents/HomeMain.vue 的词条对应在 /src/components/homecompoents/HomeMain.json
+
+此外有部分词条在 common.json 中，为所有组件通用。如有需要分离的词条请在这里提交 issue。
+
+#### Utils
+
+提供一个 i18n 命令，具体请通过 npm run i18n 查看
