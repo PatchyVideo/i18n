@@ -19,9 +19,9 @@ PatchyVideo 翻译计划 / PatchyVideo Translation Project
 
 ## Commit comment 格式
 
-Comment 格式为 “📖/📘 \[项目\]说明”。
+Comment 格式为 “📖/📘 \[项目\] 说明”。
 
-如：📖 \[patchyvideo-vue\]Complete the translation of HomeMain
+如：📖 \[patchyvideo-vue\] Complete the translation of HomeMain
 
 若项目的所有条目未全部翻译完毕，最前的书图标应为打开状态，让后来者了解翻译进度。
 若未满足格式 Maintainer 会适当修改。
