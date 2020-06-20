@@ -1,0 +1,32 @@
+{
+  "unknowforum": "神秘板块",
+  "replydia": {
+    "title": "{type} > 发表回复",
+    "thread": "主贴",
+    "comment": "楼中楼",
+    "reply": "回复："
+  },
+  "posthint": "注：建议先预览再发帖，提前发现问题",
+  "preview": "预览",
+  "postb": "发表",
+  "subb": "提交",
+  "previewdia": {
+    "title": "{type} > 预览回复",
+    "reply": "回复："
+  },
+  "editdia": {
+    "title": "编辑回复",
+    "edit": "编辑："
+  },
+  "editpredia": {
+    "title": "预览回复"
+  },
+  "edited": "已编辑",
+  "totalreply": {
+    "text": "帖子共有{count}个回复",
+    "empty": "帖子看起来很冷清呢"
+  },
+  "reply": "发表回复",
+  "pin": "置顶帖子",
+  "del": "删除帖子"
+}

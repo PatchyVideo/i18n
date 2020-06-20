@@ -3,7 +3,9 @@
     "index": "首页",
     "playlist": "播放列表",
     "postvideo": "发布视频",
-    "edittag": "标签"
+    "edittag": "标签",
+    "forum": "讨论板",
+    "logscontributes": "历史与贡献"
   },
   "search": {
     "tag_text": "标签/文本",
