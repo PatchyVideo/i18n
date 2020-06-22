@@ -1,32 +1,47 @@
 {
   "comment": "comment",
-  "commentCount": "{length} comments in total",
-  "nocomment": "No comment here!",
-  "saySth": "Say something...",
-  "usingEnter": "Post comment using Enter key",
-  "respect": "Please respect ",
-  "commentRules": "the commentRules",
-  "yo": " ",
-  "post": "Post",
-  "joinDiscuss": "Want to join the discuss? ",
-  "login": "Click me to login",
-  "showRplies": "Show {length} comments",
-  "replyPrompt": " Reply ",
+  "manage": {
+    "msg": {
+      "ok": "Operate Successfully",
+      "fail": "Failed operation, please check your Internet!"
+    },
+    "label": "Manage",
+    "title": "Please select the operation",
+    "del": "Delete the comment",
+    "hide": "Hide the comment"
+  },
+  "count": {
+    "value": "{length} comments in total",
+    "null": "No comment here!"
+  },
+  "post": {
+    "cfg": {
+      "usingEnter": "Post comment using Enter key"
+    },
+    "msg": {
+      "nullc": "Please don't leave comment empty!",
+      "ok": "Post Successfully",
+      "fail": "Failed to post, please check your Internet!"
+    },
+    "placeholder": "Say something...",
+    "term": "Please respect {rules}",
+    "rules": "\"The Comment Rules\"",
+    "emoji": "Emoji",
+    "submit": "Post"
+  },
+  "join": {
+    "text": "Want to join the discuss? {login}",
+    "login": "Click me to login"
+  },
+  "child": {
+    "placeholder": "Reply to...",
+    "label": " Reply ",
+    "show": "Show {length} comments",
+    "hide": "Hide the reply"
+  },
   "reply": "Reply",
-  "hideReply": "Hide the reply",
-  "manage": "Manage",
-  "replyTo": "Reply to...",
-  "hiddencomment": "The comment has been hidden. ",
-  "opencomment": "Click me to show the comment",
-  "deletedcomment": "Sorry, the comment has been deleted",
-  "selectOpts": "Please select the operation",
-  "deletcomment": "Delet the comment",
-  "hidecomment": "Hide the comment",
-  "cancel": "Cancel",
-  "getcommentFailed": "Geting comment data failed, please check your Internet!",
-  "PsaySth": "Please say something!",
-  "postSuccessfully": "Post Successfully",
-  "postFailed": "Failed post , please check your Internet!",
-  "operationSuccessfully": "Operate Successfully",
-  "operationFailed": "Failed operation, please check your Internet!"
+  "hidden": "The comment has been hidden. ",
+  "open": "Click me to show the comment",
+  "deleted": "Sorry, the comment has been deleted",
+  "getFailed": "Geting comment data failed, please check your Internet!"
 }
