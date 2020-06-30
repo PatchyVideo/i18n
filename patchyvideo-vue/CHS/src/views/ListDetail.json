@@ -22,5 +22,12 @@
   "delete_dialog": { "title": "提示", "content": "确认删除吗？", "btn_ok": "确定", "btn_cancel": "取 消" },
   "commit_tip": "提交成功",
   "oper_tip": "操作成功",
-  "delete_tip": "删除成功"
+  "delete_tip": "删除成功",
+  "copy_tips": {
+    "copy_URL": "视频链接复制",
+    "succeed": "成功！",
+    "fail": "失败！",
+    "share_URL": "分享链接",
+    "confirm": "确定"
+  }
 }

@@ -27,5 +27,12 @@
   },
   "commit_tip": "Submit succeed",
   "oper_tip": "Operation succeed",
-  "delete_tip": "Delete succeed"
+  "delete_tip": "Delete succeed",
+  "copy_tips": {
+    "copy_URL": "视频链接复制",
+    "succeed": "成功！",
+    "fail": "失败！",
+    "share_URL": "分享链接",
+    "confirm": "确定"
+  }
 }
