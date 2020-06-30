@@ -1,1 +1,10 @@
-{}
+{
+  "Subscribed_Text": "Subscribed Text",
+  "Subscribed_Tag_And_Text": "Subscribed Tag And Text",
+  "Name_Nullable": "Name Is Optional",
+  "Contents": "Contents input",
+  "Add_Tag_Subscription": "Add Tag Subscription",
+  "Add_Subscription": "Add Subscription",
+  "Confirm": "Confirm",
+  "Cancel": "Cancel"
+}

@@ -28,5 +28,6 @@
   "desc_long": "Description too long (max 2000 characters)",
   "user_exist": "This username has been taken",
   "user_length": "Username length must be between 2 to 32 characters",
-  "wrong_pass": "Incorrect password"
+  "wrong_pass": "Incorrect password",
+  "bind_email": "Email bound"
 }

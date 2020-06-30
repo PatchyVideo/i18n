@@ -1,1 +1,11 @@
-{}
+{
+  "default_blacklist": "Default Blacklist",
+  "custom_blacklist": "Custom Blacklist",
+  "blacklist_empty_prompt": "Blacklist Empty Prompt",
+  "Input_tags": "Please input tag",
+  "blacklist_enter_prompt": "Blacklist Enter Prompt",
+  "add_blacklist": "Add Blacklist",
+  "remove_all_blacklist": "Remove All Blacklist",
+  "load_blacklist": "Load Blacklist",
+  "use": "USE"
+}
