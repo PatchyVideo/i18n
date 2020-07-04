@@ -2,12 +2,15 @@
   "favorite": "收藏",
   "modify": "修改",
   "copy": "副本",
+  "copies_num": "此视频有{count}个副本",
   "add_copy": "添加副本",
   "del_copy": "删除副本",
   "sync_replica_label": "同步副本标签",
   "sync_replica_label_from": "从此副本同步标签",
   "playlist": "播放列表",
+  "playlists_num": "此视频存在于{count}个播放列表中",
   "management": "视频等级管理",
+  "choose_type": "请选择发布类型！",
   "official": "原始发布",
   "official_repost": "官方再发布",
   "authorized_translation": "授权翻译",
@@ -19,10 +22,55 @@
   "no_previous_article": "没有前一篇了哦",
   "next_article": "后一篇",
   "no_next_article": "没有后一篇了哦",
+  "refresh": {
+    "succeed": "更新成功！",
+    "fail": "更新失败!"
+  },
   "infotip": {
+    "title": "修改视频发布类型",
     "release_type": "请修改视频的发布类型",
     "nocopies": "此视频不存在副本",
     "noplaylist": "本视频不包含于任何播放列表中",
     "create_playlist": "由此视频创建播放列表"
-  }
+  },
+  "changeRank": {
+    "title": "请修改视频的等级",
+    "rank0": "仅管理员可见",
+    "rank1": "登录用户可见",
+    "rank2": "发布者和管理员可见",
+    "rank3": "所有人可见",
+    "succeed": "修改成功！",
+    "fail": "修改失败，请重试!"
+  },
+  "addTo": {
+    "title": "添加到列表",
+    "newList": "新建列表:",
+    "search": "搜索我的列表...",
+    "private": "[私密]",
+    "exist": "[已有此视频]",
+    "total": "共{count}个视频",
+    "NULL": "您还没有视频列表！",
+    "succeed": "添加成功！",
+    "fail": "添加失败!"
+  },
+  "copies": {
+    "succeed": "副本添加成功！",
+    "fail": "副本添加失败!",
+    "unauthorized": "登录信息错误，请重新登录！"
+  },
+  "delet_copies": {
+    "title": "提示",
+    "confirm": "确认删除？"
+  },
+  "async": {
+    "succeed": "同步成功！",
+    "fail": "同步失败!"
+  },
+  "URL_copy": "视频链接复制",
+  "share_URL": "分享链接",
+  "succeed": "成功!",
+  "fail": "失败!",
+  "unknow_err": "未知错误",
+  "cancel": "取 消",
+  "confirm": "确 定"
 }
