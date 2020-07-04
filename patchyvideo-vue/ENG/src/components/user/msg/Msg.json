@@ -1,1 +1,5 @@
-{ "allMsg": "Unread Messages", "noMsg": "NO UNREAD MESSAGE YET!", "replyTo": "replied to you:" }
+{
+  "allMsg": "未读消息",
+  "noMsg": "暂无未读消息哦！",
+  "replyTo": "回复了你的评论:"
+}

@@ -1,1 +1,17 @@
-{}
+{
+  "global_text": {
+    "loading": "少女祈祷中",
+    "all": "全部"
+  },
+  "dialog": {
+    "title": {
+      "hint": "提示"
+    }
+  },
+  "botton": {
+    "confirm": "确定",
+    "cancel": "取消",
+    "confirm_b": "确 定",
+    "cancel_b": "取 消"
+  }
+}

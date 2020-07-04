@@ -1,15 +1,5 @@
 {
-  "page_count": "Showing {count} / {maxcount} videos",
-  "no_result": "No video found",
-  "show_deleted": "Show deleted videos",
-  "blacklist_prompt": "*Some videos are blacklisted, you can change your blacklist setting in your settings panel.",
-  "latest": "Latest",
-  "oldest": "Oldest",
-  "latest_video": "Latest Video",
-  "oldest_video": "Oldest Video",
-  "popular_tags": "Popular Tags",
-  "search_result": "Search - {result}",
-  "syntax_error": "Syntax error in query",
-  "syntax_error_not": "NOT cannot be used here",
-  "see_uploaders": "See Uploaders"
+  "score": {
+    "title": "评分"
+  }
 }
