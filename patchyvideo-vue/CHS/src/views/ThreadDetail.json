@@ -1,5 +1,7 @@
 {
-  "finfoTitle": "意见反馈",
+  "5e8fce11beb63ebb98f8b50c": {
+    "finfoTitle": "意见反馈"
+  },
   "discussBroad": "讨论版",
   "unknowforum": "神秘板块",
   "replydia": {
@@ -34,32 +36,32 @@
     "clearReply": "此操作将清空您已存的编辑，确定要继续吗？",
     "replyCancelled": "回复已取消",
     "replySuccessfully": "发表成功！",
-    "replyUnsuccessfully": "发表失败："
+    "replyFailed": "发表失败： {result}"
   },
   "submitSuccessfully": "提交成功！",
-  "submitUnsuccessfully": "提交失败：",
+  "submitFailed": "提交失败： {result}",
   "pin": "置顶帖子",
   "pinInfo": {
-    "pinSuccessfully": "置顶成功！",
-    "pinUnsuccessfully": "置顶失败："
+    "pinSuccessfully": "{cancel}置顶成功！",
+    "pinFailed": "{cancel}置顶失败： {result}"
   },
   "del": "删除帖子",
   "delInfo": {
     "confirmInfo": "此操作将删除所选的回复，确定要继续吗？",
     "delSuccessfully": "删除成功！",
-    "delUnsuccessfully": "删除失败：",
+    "delFailed": "删除失败： {result}",
     "delCancelled": "删除已取消",
     "delAll": "此操作将删除帖子的所有内容，真的确定要继续吗？\n请三思！"
   },
   "warning": "警告",
   "confirm": "确定",
   "cancel": "取消",
-  "maiMengMsg": {
-    "msg1": "还没有编辑任何信息哦！",
-    "msg2": "还没有编辑任何信息呢...",
-    "msg3": "先编辑下再发布吧！",
-    "msg4": "呐呐，编辑完再发布有什么错嘛？",
-    "msg5": "我说没有编辑就是没有编辑啦！编辑完再发布嘛！",
-    "msg6": "你就没有其他事可做吗"
-  }
+  "editHint": [
+    "还没有编辑任何信息哦！",
+    "还没有编辑任何信息呢...",
+    "先编辑下再发布吧！",
+    "呐呐，编辑完再发布有什么错嘛？",
+    "我说没有编辑就是没有编辑啦！编辑完再发布嘛！",
+    "你就没有其他事可做吗"
+  ]
 }
