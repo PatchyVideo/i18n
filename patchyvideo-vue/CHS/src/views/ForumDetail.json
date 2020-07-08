@@ -19,7 +19,7 @@
   },
   "post": "发表新帖",
   "postInfo": {
-    "postSuccessfully": "发帖成功！正在跳转~",
+    "postSuccess": "发帖成功！正在跳转~",
     "postFailed": "发帖失败： {result}"
   },
   "postdia": {

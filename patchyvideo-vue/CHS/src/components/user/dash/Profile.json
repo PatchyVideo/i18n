@@ -29,5 +29,5 @@
   "user_exist": "用户名已存在！",
   "user_length": "用户名长度应在 2 到 32 个字符！",
   "wrong_pass": "请检查旧密码是否正确",
-  "bind_email": "已绑定邮箱"
+  "bound_email": "已绑定邮箱: {email}"
 }
