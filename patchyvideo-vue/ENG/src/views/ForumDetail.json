@@ -1,11 +1,7 @@
 {
-  "Forum": "{title} - 讨论板",
-  "Finfo": {
-    "5e8fce11beb63ebb98f8b50c": {
-      "title": "意见反馈",
-      "desc": "在这里反馈在帕琪站遇到的问题~\n建议将问题详细描述并尽量附带截图或日志。\n（截图可以使用 img标签 + 图床，日志请尽量使用 pastebin）"
-    }
-  },
+  "discussionBoard": " - 讨论板",
+  "title": "意见反馈",
+  "desc": "在这里反馈在帕琪站遇到的问题~\n建议将问题详细描述并尽量附带截图或日志。\n（截图可以使用 img标签 + 图床，日志请尽量使用 pastebin）",
   "emptyText": "少女祈祷中...",
   "unknowforum": "神秘板块",
   "unknowdesc": "板块还没有简介哦~",
@@ -20,7 +16,7 @@
   "post": "发表新帖",
   "postInfo": {
     "postSuccess": "发帖成功！正在跳转~",
-    "postFailed": "发帖失败： {result}"
+    "postFailed": "发帖失败："
   },
   "postdia": {
     "title": "{forum} > 发表新帖",

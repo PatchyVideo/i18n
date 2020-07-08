@@ -1,47 +1,48 @@
 {
-  "comment": "comment",
+  "comment": "评论",
   "manage": {
     "msg": {
-      "ok": "Operate Successfully",
-      "fail": "Failed operation, please check your Internet!"
+      "ok": "操作成功！",
+      "fail": "操作失败，请检查网络设置！"
     },
-    "label": "Manage",
-    "title": "Please select the operation",
-    "del": "Delete the comment",
-    "hide": "Hide the comment"
+    "label": "管理",
+    "title": "请选择操作",
+    "del": "删除评论",
+    "hide": "隐藏评论"
   },
   "count": {
-    "value": "{length} comments in total",
-    "null": "No comment here!"
+    "value": "共{length}条评论",
+    "null": "暂无评论！"
   },
   "post": {
     "cfg": {
-      "usingEnter": "Post comment using Enter key"
+      "usingEnter": "使用Enter键发表评论"
     },
     "msg": {
-      "nullc": "Please don't leave comment empty!",
-      "ok": "Post Successfully",
-      "fail": "Failed to post, please check your Internet!"
+      "nullc": "请输入内容！",
+      "ok": "发表成功！",
+      "fail": "发表失败，请检查网络设置！"
     },
-    "placeholder": "Say something...",
-    "term": "Please respect {rules}",
-    "rules": "\"The Comment Rules\"",
+    "placeholder": "说点儿什么吧~",
+    "term": "请遵守{rules}哟",
+    "rules": "评论规则",
+    "face": "表情",
     "emoji": "Emoji",
-    "submit": "Post"
+    "submit": "发表"
   },
   "join": {
-    "text": "Want to join the discuss? {login}",
-    "login": "Click me to login"
+    "text": "想要一起参与讨论？{login}",
+    "login": "点我登录"
   },
   "child": {
-    "placeholder": "Reply to...",
-    "label": " Reply ",
-    "show": "Show {length} comments",
-    "hide": "Hide the reply"
+    "placeholder": "回复Ta",
+    "label": " 回复",
+    "show": "查看{length}条回复",
+    "hide": "收起回复"
   },
-  "reply": "Reply",
-  "hidden": "The comment has been hidden. ",
-  "open": "Click me to show the comment",
-  "deleted": "Sorry, the comment has been deleted",
-  "getFailed": "Geting comment data failed, please check your Internet!"
+  "reply": "回复",
+  "hidden": "该评论已被隐藏",
+  "deleted": "抱歉，该评论已被删除",
+  "open": "点我展开",
+  "getFailed": "获取评论失败，请检查网络设置！"
 }

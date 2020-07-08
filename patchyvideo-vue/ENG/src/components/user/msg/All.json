@@ -1,1 +1,5 @@
-{ "allMsg": "All Messages", "noMsg": "NO MESSAGE YET!", "replyTo": "replied to you:" }
+{
+  "allMsg": "全部消息",
+  "noMsg": "还没有收到消息QAQ",
+  "replyTo": "回复了你的评论:"
+}

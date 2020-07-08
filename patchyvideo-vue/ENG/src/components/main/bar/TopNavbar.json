@@ -1,13 +1,31 @@
 {
-  "navbar": { "index": "Home", "playlist": "Playlists", "postvideo": "Post Video", "edittag": "Tags" },
-  "search": { "tag_text": "Tag/Text", "text": "Text Only", "prompt": "Search...", "button": "Search" },
-  "user": {
-    "signup": "Sign up",
-    "login": "Log in",
-    "message": "Messages",
-    "logout": "Log out",
-    "logout_prompt": "Are you sure you want to log out?",
-    "login_expire_prompt": "Your session has expired. Please relogin"
+  "navbar": {
+    "index": "首页",
+    "playlist": "播放列表",
+    "video": "视频",
+    "postvideo": "发布视频",
+    "tag": "标签",
+    "edittag": "编辑标签",
+    "forum": "讨论板",
+    "logscontributes": "历史与贡献"
   },
-  "prompt": { "msg": "Are you sure?", "ok": "OK", "cancel": "Cancel" }
+  "search": {
+    "tag_text": "标签/文本",
+    "text": "仅文本",
+    "prompt": "请输入标签",
+    "button": "搜索"
+  },
+  "user": {
+    "signup": "注册",
+    "login": "登录",
+    "message": "消息",
+    "logout": "退出",
+    "logout_prompt": "你确定要退出登陆吗?",
+    "login_expire_prompt": "登录已过期，请新登录！"
+  },
+  "prompt": {
+    "msg": "提示",
+    "ok": "确 定",
+    "cancel": "取 消"
+  }
 }

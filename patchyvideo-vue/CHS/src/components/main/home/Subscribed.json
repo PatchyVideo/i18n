@@ -1,4 +1,5 @@
 {
+  "all": "全部",
   "page_count": "显示 {count} / {maxcount} 个视频",
   "no_result": "没有搜索到订阅的视频",
   "show_deleted": "显示已失效视频",
@@ -10,5 +11,6 @@
   "popular_tags": "热门标签",
   "search_result": "搜索结果 - {result}",
   "syntax_error": "查询语法错误！",
-  "syntax_error_not": "所输入的查询不能与NOT连用！"
+  "syntax_error_not": "所输入的查询不能与NOT连用！",
+  "subscribed_from": "订阅来源："
 }
