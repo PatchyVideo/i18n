@@ -24,9 +24,8 @@
   "oper_tip": "操作成功",
   "delete_tip": "删除成功",
   "copy_tips": {
-    "copy_URL": "视频链接复制{result}",
-    "succeed": "成功！",
-    "fail": "失败！",
+    "succeed": "视频链接复制成功！",
+    "fail": "视频链接复制失败！",
     "share_URL": "分享链接",
     "confirm": "确定"
   }

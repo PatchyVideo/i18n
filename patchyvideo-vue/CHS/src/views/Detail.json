@@ -63,8 +63,11 @@
     "succeed": "同步成功！",
     "fail": "同步失败!"
   },
-  "URL_copy": "视频链接复制",
-  "share_URL": "分享链接",
+  "URL_copy": {
+    "share_URL": "分享链接",
+    "succeed": "视频链接复制成功",
+    "fail": "视频链接复制失败"
+  },
   "succeed": "成功!",
   "fail": "失败!",
   "unknow_err": "未知错误",
