@@ -12,5 +12,9 @@
   "login_success_msg": "登录成功",
   "login_fail_msg": "登录失败",
   "request_failed": "请求失败",
-  "net_err": "网络错误！"
+  "net_err": "网络错误！",
+  "loginhr": "或使用第三方登录",
+  "loginvia": {
+    "qq": "通过 QQ 登录"
+  }
 }
