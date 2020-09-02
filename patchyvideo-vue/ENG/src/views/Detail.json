@@ -1,37 +1,37 @@
 {
-  "favorite": "收藏",
-  "modify": "修改",
-  "copy": "副本",
-  "copies_num": "此视频有{count}个副本",
-  "add_copy": "添加副本",
-  "del_copy": "删除副本",
-  "sync_replica_label": "同步副本标签",
-  "sync_replica_label_from": "从此副本同步标签",
-  "playlist": "播放列表",
-  "playlists_num": "此视频存在于{count}个播放列表中",
+  "favorite": "Add to playlist",
+  "modify": "Edit",
+  "copy": "Copies",
+  "copies_num": "This video has {count} copies",
+  "add_copy": "Add copy",
+  "del_copy": "Remove copy",
+  "sync_replica_label": "Broadcast tags to other copies",
+  "sync_replica_label_from": "Sync tags from this copy",
+  "playlist": "Playlist",
+  "playlists_num": "This video is included in {count} playlists",
   "management": "视频等级管理",
-  "choose_type": "请选择发布类型！",
-  "official": "原始发布",
-  "official_repost": "官方再发布",
-  "authorized_translation": "授权翻译",
-  "authorized_repost": "授权转载",
-  "translation": "自发翻译",
-  "repost": "自发搬运",
-  "unknown": "其他",
-  "previous_article": "前一篇",
-  "no_previous_article": "没有前一篇了哦",
-  "next_article": "后一篇",
-  "no_next_article": "没有后一篇了哦",
+  "choose_type": "Please choose an item",
+  "official": "Official",
+  "official_repost": "Official repost",
+  "authorized_translation": "Authorized translation",
+  "authorized_repost": "Authorized repost",
+  "translation": "Translation",
+  "repost": "Repost",
+  "unknown": "Unknown",
+  "previous_article": "Prev",
+  "no_previous_article": "No previous video",
+  "next_article": "Next",
+  "no_next_article": "No next video",
   "refresh": {
-    "succeed": "更新成功！",
-    "fail": "更新失败!"
+    "succeed": "Update requested",
+    "fail": "Update request failed"
   },
   "infotip": {
-    "title": "修改视频发布类型",
-    "release_type": "请修改视频的发布类型",
-    "nocopies": "此视频不存在副本",
-    "noplaylist": "本视频不包含于任何播放列表中",
-    "create_playlist": "由此视频创建播放列表"
+    "title": "Edit video repost type",
+    "release_type": "Edit video repost type",
+    "nocopies": "No copies found",
+    "noplaylist": "No playlist found",
+    "create_playlist": "Create playlist from this video"
   },
   "changeRank": {
     "title": "请修改视频的等级",
@@ -43,34 +43,34 @@
     "fail": "修改失败，请重试!"
   },
   "addTo": {
-    "title": "添加到列表",
-    "newList": "新建列表:",
-    "search": "搜索我的列表...",
-    "private": "[私密]",
-    "exist": "[已有此视频]",
-    "total": "共{count}个视频",
-    "NULL": "您还没有视频列表！",
-    "succeed": "添加成功！",
-    "fail": "添加失败!"
+    "title": "Add to playlist",
+    "newList": "Create new playlist",
+    "search": "Search my playlists...",
+    "private": "[Private]",
+    "exist": "[Video exists]",
+    "total": "Total {count} videos",
+    "NULL": "No playlist found",
+    "succeed": "Successfully added to playlist",
+    "fail": "Failed to add to playlist"
   },
   "copies": {
-    "succeed": "副本添加成功！",
-    "fail": "副本添加失败!",
-    "unauthorized": "登录信息错误，请重新登录！"
+    "succeed": "Copy successfully added",
+    "fail": "Failed to add copy",
+    "unauthorized": "You are not authorized, please check if you are logged in"
   },
   "delet_copies": {
-    "title": "提示",
-    "confirm": "确认删除？"
+    "title": "Confirm",
+    "confirm": "Are you sure you want to delete this copy? This operation is irreversible."
   },
   "async": {
-    "succeed": "同步成功！",
-    "fail": "同步失败!"
+    "succeed": "Sync succeed",
+    "fail": "Sync failed"
   },
-  "URL_copy": "视频链接复制",
-  "share_URL": "分享链接",
-  "succeed": "成功!",
-  "fail": "失败!",
-  "unknow_err": "未知错误",
-  "cancel": "取 消",
-  "confirm": "确 定"
+  "URL_copy": "Copy URL",
+  "share_URL": "Share video",
+  "succeed": "Succeed",
+  "fail": "Failed",
+  "unknow_err": "Unknown error occured",
+  "cancel": "Cancel",
+  "confirm": "OK"
 }

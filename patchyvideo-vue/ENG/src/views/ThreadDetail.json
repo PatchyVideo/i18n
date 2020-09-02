@@ -1,59 +1,59 @@
 {
-  "finfoTitle": "意见反馈",
-  "discussBroad": "讨论版",
-  "unknowforum": "神秘板块",
+  "finfoTitle": "Bugs and suggestions",
+  "discussBroad": "Forum",
+  "unknowforum": "Other",
   "replydia": {
-    "title": "{type} > 发表回复",
-    "thread": "主贴",
-    "comment": "楼中楼",
-    "reply": "回复："
+    "title": "{type} > Reply",
+    "thread": "Thread",
+    "comment": "Comments",
+    "reply": "Reply: "
   },
-  "posthint": "注：建议先预览再发帖，提前发现问题",
-  "preview": "预览",
-  "postb": "发表",
-  "subb": "提交",
+  "posthint": "Note: You can preview your post",
+  "preview": "Preview",
+  "postb": "Post",
+  "subb": "Submit",
   "previewdia": {
-    "title": "{type} > 预览回复",
-    "reply": "回复："
+    "title": "{type} > Preview reply",
+    "reply": "Reply: "
   },
   "editdia": {
-    "title": "编辑回复",
-    "edit": "编辑："
+    "title": "Edit reply",
+    "edit": "Edit: "
   },
   "editpredia": {
-    "title": "预览回复"
+    "title": "Preview reply"
   },
-  "edited": "已编辑",
+  "edited": "Edited",
   "totalreply": {
-    "text": "帖子共有{count}个回复",
-    "empty": "帖子看起来很冷清呢"
+    "text": "This thread has {count} replies",
+    "empty": "This thread has no reply"
   },
-  "reply": "发表回复",
+  "reply": "Reply",
   "replyInfo": {
-    "noContent": "填写下发布的内容吧！",
-    "clearReply": "此操作将清空您已存的编辑，确定要继续吗？",
-    "replyCancelled": "回复已取消",
-    "replySuccess": "发表成功！",
-    "replyFailed": "发表失败："
+    "noContent": "This field is mandatory",
+    "clearReply": "This will delete any saved reply draft, are you sure you want to continue.",
+    "replyCancelled": "Reply cancelled",
+    "replySuccess": "Reply succeed",
+    "replyFailed": "Reply failed"
   },
-  "submitSuccess": "提交成功！",
-  "submitFailed": "提交失败：",
-  "pin": "置顶帖子",
+  "submitSuccess": "Submit succeed",
+  "submitFailed": "Submit failed",
+  "pin": "Pin thread",
   "pinInfo": {
-    "pinSuccess": "置顶成功！",
-    "pinFailed": "置顶失败："
+    "pinSuccess": "Pin succeed",
+    "pinFailed": "Pin failed"
   },
-  "del": "删除帖子",
+  "del": "Delete thread",
   "delInfo": {
-    "confirmInfo": "此操作将删除所选的回复，确定要继续吗？",
-    "delSuccess": "删除成功！",
-    "delFailed": "删除失败：",
-    "delCancelled": "删除已取消",
-    "delAll": "此操作将删除帖子的所有内容，真的确定要继续吗？\n请三思！"
+    "confirmInfo": "This operation will delete all replies, are you sure you want to continue?",
+    "delSuccess": "Delete succeed",
+    "delFailed": "Delete failed",
+    "delCancelled": "Delete cancelled",
+    "delAll": "This operation will delete all replies, are you sure you want to continue?"
   },
-  "warning": "警告",
-  "confirm": "确定",
-  "cancel": "取消",
+  "warning": "Warning",
+  "confirm": "Confirm",
+  "cancel": "Cancel",
   "maiMengMsg": {
     "msg1": "还没有编辑任何信息哦！",
     "msg2": "还没有编辑任何信息呢...",

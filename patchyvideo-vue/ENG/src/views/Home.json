@@ -1,1 +1,4 @@
-{ "home": "主页", "Subscribed": "订阅" }
+{
+    "home": "Home",
+    "Subscribed": "Subscriptions"
+}

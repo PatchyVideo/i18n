@@ -1,7 +1,7 @@
 {
-  "edited": "已编辑",
+  "edited": "Edited",
   "hidden": {
-    "label": "此回复因离题或语言过激被折叠",
-    "show": "显示"
+    "label": "This reply is hidden",
+    "show": "Show"
   }
 }

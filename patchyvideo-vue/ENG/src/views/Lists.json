@@ -1,8 +1,16 @@
 {
-  "title": "视频列表",
-  "create_playList": "创建播放列表",
-  "search": { "input_tip": "搜索列表...", "btn": "搜索", "downlist": { "latest": "时间正序", "oldest": "时间倒序", "last_modified": "最近修改" } },
-  "err_tip": "没有搜索到视频列表",
-  "statistics": "共{count}个视频",
-  "author": "作者："
+  "title": "Playlists",
+  "create_playList": "New",
+  "search": {
+    "input_tip": "Search...",
+    "btn": "Search",
+    "downlist": {
+      "latest": "Latest",
+      "oldest": "Oldest",
+      "last_modified": "Last modified"
+    }
+  },
+  "err_tip": "No playlist found",
+  "statistics": "Total {count} videos",
+  "author": "Created by "
 }

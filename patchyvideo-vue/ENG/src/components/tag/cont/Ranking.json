@@ -1,7 +1,7 @@
 {
-  "editcount": "编辑次数：{count}次",
-  "to_date": "至今为止",
-  "last_month": "过去一个月",
-  "last_week": "过去一周",
-  "last_day": "过去一天"
+  "editcount": "Total {count} edits",
+  "to_date": "All of history",
+  "last_month": "Last month",
+  "last_week": "Last week",
+  "last_day": "Last day"
 }

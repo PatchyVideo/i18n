@@ -1,26 +1,26 @@
 {
   "__i18n_global": true,
-  "page_count": "显示 {count} / {maxcount} 个视频",
-  "no_result": "没有搜索到视频",
-  "show_deleted": "显示已失效视频",
-  "blacklist_prompt": "*已屏蔽含有敏感标签的视频，可在个人界面设置",
-  "latest": "发布时间正序",
-  "oldest": "发布时间倒序",
-  "latest_video": "原视频上传时间正序",
-  "oldest_video": "原视频上传时间倒序",
-  "popular_tags": "热门标签",
-  "search_result": "搜索结果 - {result}",
-  "syntax_error": "查询语法错误！",
-  "syntax_error_not": "所输入的查询不能与NOT连用！",
-  "see_uploaders": "查看上传者",
-  "nodesc": "此视频没有简介哦",
+  "page_count": "Showing {count} out of {maxcount} videos",
+  "no_result": "No video found",
+  "show_deleted": "Show deleted videos",
+  "blacklist_prompt": "*Some videos containing blacklisted tags are not shown, you can change your blacklist settings [here]",
+  "latest": "Latest",
+  "oldest": "Oldest",
+  "latest_video": "Latest upload",
+  "oldest_video": "Oldest upload",
+  "popular_tags": "Popular tags",
+  "search_result": "Search - {result}",
+  "syntax_error": "Search syntax error",
+  "syntax_error_not": "NOT is not allowed here",
+  "see_uploaders": "View",
+  "nodesc": "Video has no description",
   "copy_link": {
-    "title": "分享链接",
-    "info": "视频链接复制 {status}！",
-    "confirm": "确定",
+    "title": "Share video link",
+    "info": "Copy video URL {status}!",
+    "confirm": "Confirm",
     "status": {
-      "ok": "成功",
-      "fail": "失败"
+      "ok": "Succeed",
+      "fail": "Failed"
     }
   }
 }

@@ -1,48 +1,48 @@
 {
-  "comment": "评论",
+  "comment": "Comments",
   "manage": {
     "msg": {
-      "ok": "操作成功！",
-      "fail": "操作失败，请检查网络设置！"
+      "ok": "Operation succeed",
+      "fail": "Operation failed"
     },
-    "label": "管理",
-    "title": "请选择操作",
-    "del": "删除评论",
-    "hide": "隐藏评论"
+    "label": "Manage",
+    "title": "Choose an operation",
+    "del": "Delete comment",
+    "hide": "Hide comment"
   },
   "count": {
-    "value": "共{length}条评论",
-    "null": "暂无评论！"
+    "value": "Total {length} comments",
+    "null": "No comment found"
   },
   "post": {
     "cfg": {
-      "usingEnter": "使用Enter键发表评论"
+      "usingEnter": "Post comment with Enter key"
     },
     "msg": {
-      "nullc": "请输入内容！",
-      "ok": "发表成功！",
-      "fail": "发表失败，请检查网络设置！"
+      "nullc": "Please enter comment",
+      "ok": "Post succeed",
+      "fail": "Post failed"
     },
-    "placeholder": "说点儿什么吧~",
-    "term": "请遵守{rules}哟",
-    "rules": "评论规则",
-    "face": "表情",
+    "placeholder": "Comment content",
+    "term": "Please follow comment section {rules}",
+    "rules": "rules",
+    "face": "Faces",
     "emoji": "Emoji",
-    "submit": "发表"
+    "submit": "Post reply"
   },
   "join": {
-    "text": "想要一起参与讨论？{login}",
-    "login": "点我登录"
+    "text": "You need to {login} in order to post comments",
+    "login": "login"
   },
   "child": {
-    "placeholder": "回复Ta",
-    "label": " 回复",
-    "show": "查看{length}条回复",
-    "hide": "收起回复"
+    "placeholder": "Reply",
+    "label": " Reply",
+    "show": "Show total {length} replies",
+    "hide": "Hide"
   },
-  "reply": "回复",
-  "hidden": "该评论已被隐藏",
-  "deleted": "抱歉，该评论已被删除",
-  "open": "点我展开",
-  "getFailed": "获取评论失败，请检查网络设置！"
+  "reply": "Reply",
+  "hidden": "This comment is hidden",
+  "deleted": "This comment is deleted",
+  "open": "Show",
+  "getFailed": "Failed to retrive comments"
 }

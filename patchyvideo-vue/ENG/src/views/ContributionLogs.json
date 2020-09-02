@@ -1,1 +1,5 @@
-{ "label": "历史和贡献", "history": "标签编辑历史", "contribution": "标签贡献排行榜" }
+{
+    "label": "History and contributions",
+    "history": "Tag histroy",
+    "contribution": "Tag contributions"
+}

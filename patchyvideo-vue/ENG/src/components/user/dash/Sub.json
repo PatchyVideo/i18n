@@ -1,10 +1,10 @@
 {
-  "Subscribed_Text": "已订阅的文本",
-  "Subscribed_Tag_And_Text": "已订阅的标签/文本",
-  "Name_Nullable": "name可为空",
-  "Contents": "要添加的标签内容",
-  "Add_Tag_Subscription": "添加标签订阅",
-  "Add_Subscription": "添加订阅",
-  "Confirm": "确定",
-  "Cancel": "取消"
+  "Subscribed_Text": "Subscripted texts",
+  "Subscribed_Tag_And_Text": "Subscripted tags",
+  "Name_Nullable": "Name can be empty",
+  "Contents": "Content",
+  "Add_Tag_Subscription": "Add tag Subscription",
+  "Add_Subscription": "Add Subscription",
+  "Confirm": "Confirm",
+  "Cancel": "Cancel"
 }

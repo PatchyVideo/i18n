@@ -1,32 +1,32 @@
 {
-  "discussionBoard": " - 讨论板",
-  "title": "意见反馈",
-  "desc": "在这里反馈在帕琪站遇到的问题~\n建议将问题详细描述并尽量附带截图或日志。\n（截图可以使用 img标签 + 图床，日志请尽量使用 pastebin）",
-  "emptyText": "少女祈祷中...",
-  "unknowforum": "神秘板块",
-  "unknowdesc": "板块还没有简介哦~",
-  "thread": "帖子",
-  "nodesc": "帖子还没有预览哦~",
-  "author": "作者",
-  "reply": "跟帖",
+  "discussionBoard": " - Forum",
+  "title": "Bugs and suggestions",
+  "desc": "Help us make PatchyVideo better",
+  "emptyText": "Now loading...",
+  "unknowforum": "Other",
+  "unknowdesc": "No description",
+  "thread": "Threads",
+  "nodesc": "No description",
+  "author": "Author",
+  "reply": "Reply",
   "hidden": {
-    "text": "本页含有{count}个隐藏贴 {show}",
-    "show": "显示"
+    "text": "This page contains {count} hidden posts {show}",
+    "show": "Show"
   },
-  "post": "发表新帖",
+  "post": "New",
   "postInfo": {
-    "postSuccess": "发帖成功！正在跳转~",
-    "postFailed": "发帖失败："
+    "postSuccess": "Post succeed",
+    "postFailed": "Post failed"
   },
   "postdia": {
-    "title": "{forum} > 发表新帖",
-    "titleph": "在这里填写标题~",
-    "titlehint": "来说点什么吧"
+    "title": "{forum} > New",
+    "titleph": "Title",
+    "titlehint": "Title"
   },
-  "posthint": "注：建议先预览再发帖，提前发现问题",
-  "preview": "预览",
-  "postb": "发表",
+  "posthint": "Note: you can preview your post",
+  "preview": "Preview",
+  "postb": "Post",
   "previewdia": {
-    "title": "{forum} > 预览帖子"
+    "title": "{forum} > View thread"
   }
 }

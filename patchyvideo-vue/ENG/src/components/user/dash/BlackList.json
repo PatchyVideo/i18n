@@ -1,11 +1,11 @@
 {
-  "default_blacklist": "默认黑名单",
-  "custom_blacklist": "自定义黑名单",
-  "blacklist_empty_prompt": "黑名单为空",
-  "Input_tags": "请输入标签",
-  "blacklist_enter_prompt": "黑名单输入框",
-  "add_blacklist": "添加黑名单",
-  "remove_all_blacklist": "移除所有黑名单",
-  "load_blacklist": "加载黑名单列表",
-  "use": "使用"
+  "default_blacklist": "Default blacklist",
+  "custom_blacklist": "Custom blacklist",
+  "blacklist_empty_prompt": "Blacklist is empty",
+  "Input_tags": "Enter tag",
+  "blacklist_enter_prompt": "Enter tag",
+  "add_blacklist": "Add single tag to blacklist",
+  "remove_all_blacklist": "Remove all tags",
+  "load_blacklist": "Add multiple tags to blacklist",
+  "use": "Use this option"
 }

@@ -1,6 +1,6 @@
 {
-  "editor": "编辑者：",
-  "edittime": "编辑时间：",
-  "add": "添加：",
-  "del": "删除："
+  "editor": "Edited by:",
+  "edittime": "Edited at:",
+  "add": "Added:",
+  "del": "Deleted:"
 }

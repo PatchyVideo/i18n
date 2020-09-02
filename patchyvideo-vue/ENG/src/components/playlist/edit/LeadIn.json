@@ -1,8 +1,8 @@
 {
-  "prompt": "这里可以直接导入播放列表，但是请注意，本功能仅限于b站收藏夹、YouTube播放列表和nicovideo的mylist哦",
-  "url_placeholder": "在这里输入列表的网址",
-  "upload_now": "立即导入",
-  "no_url_prompt": "还没输入地址呢",
-  "upload_failed": "列表导入失败，请检查地址是否正确！",
-  "upload_succeed": "列表导入成功！"
+  "prompt": "Import playlist from existing video sites, only YouTube, Bilibili and Nicovideo is supported",
+  "url_placeholder": "Playlist/Mylist URL",
+  "upload_now": "Import",
+  "no_url_prompt": "Please enter URL",
+  "upload_failed": "Import failed, please check if the URL you entered is supported",
+  "upload_succeed": "Import succeed"
 }

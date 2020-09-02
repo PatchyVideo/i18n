@@ -1,5 +1,5 @@
 {
   "dialog_publish": {
-    "value": "你确定要使用当前标签发布\" {part} \"的索引吗？"
+    "value": "Are you sure you want to post video using \"{part}\"?"
   }
 }

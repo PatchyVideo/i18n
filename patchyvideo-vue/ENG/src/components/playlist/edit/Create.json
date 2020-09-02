@@ -1,14 +1,14 @@
 {
-  "this_is_playlist_title": "这里是列表标题",
-  "describe_your_playlist": "来介绍一下自己的列表吧~",
-  "set_as_private_playlist": "设为私有列表",
-  "create_now": "立即创建",
-  "no_title_prompt": "还没输入标题呢",
-  "no_desc_prompt": "不来介绍一下列表吗？",
-  "one_cover_prompt": "只能上传一个封面！",
-  "delete_confirm_prompt": "确定移除 {name}？",
-  "create_failed": "列表创建失败，请重试！",
-  "not_login": "登录验证失败，请先登录！",
-  "create_succeed": "列表创建成功！",
-  "showListRules": "查看创建播放列表的规则"
+  "this_is_playlist_title": "Playlist title",
+  "describe_your_playlist": "Describe your playlist",
+  "set_as_private_playlist": "Private playlist",
+  "create_now": "Create",
+  "no_title_prompt": "Please enter playlist title",
+  "no_desc_prompt": "Please enter playlist description",
+  "one_cover_prompt": "At most one cover is allowed",
+  "delete_confirm_prompt": "Are you sure you want to delete {name}?",
+  "create_failed": "Failed to create playlist",
+  "not_login": "You need to login to create playlist",
+  "create_succeed": "Playlist created successfully",
+  "showListRules": "Playlist rules"
 }

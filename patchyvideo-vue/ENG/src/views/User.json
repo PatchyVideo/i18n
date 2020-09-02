@@ -1,5 +1,18 @@
 {
-  "title": "创建播放列表",
-  "me": { "tab1": "我的信息", "tab2": "我贡献的索引", "tab3": "我的文件夹", "tab4": "我的播放列表", "tab5": "发布状态", "tab6": "黑名单", "tab7": "订阅" },
-  "outer_user": { "tab1": "用户信息", "tab2": "他贡献的索引", "tab3": "他的文件夹", "tab4": "他的收藏" }
+  "title": "User information",
+  "me": {
+    "tab1": "Profile",
+    "tab2": "My videos",
+    "tab3": "My folders",
+    "tab4": "My playlists",
+    "tab5": "Video status",
+    "tab6": "Tag blacklists",
+    "tab7": "Subscriptions"
+  },
+  "outer_user": {
+    "tab1": "Profile",
+    "tab2": "Videos",
+    "tab3": "Folders",
+    "tab4": "Playlists"
+  }
 }
