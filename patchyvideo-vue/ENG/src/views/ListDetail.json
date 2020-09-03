@@ -5,6 +5,7 @@
     "add_favorite": "Add to folder",
     "edit_list_info": "Edit",
     "edit_common_tags": "Edit common video tags",
+    "edit_list_tags": "Edit playlist tags",
     "reverse_list": "Reverse video order",
     "delete": "Delete"
   },
@@ -16,6 +17,7 @@
     "list_introduction_tip": "Playlist description",
     "list_introduction_err_tip": "Please enter a description",
     "set_private_list": "Private playlist",
+    "allow_others_edit": "Allow others to modifiy this playlist",
     "btn_ok": "Confirm",
     "btn_cancel": "Cancel"
   },

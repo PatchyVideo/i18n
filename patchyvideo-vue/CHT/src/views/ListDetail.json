@@ -4,6 +4,7 @@
     "import_from_other": "從其他網站的收藏夾導入",
     "add_favorite": "加入收藏",
     "edit_list_info": "編輯列表信息",
+    "edit_list_tags": "編輯列表標簽",
     "edit_common_tags": "編輯共有標簽",
     "reverse_list": "列表視頻倒序",
     "delete": "刪除"
@@ -16,6 +17,7 @@
     "list_introduction_tip": "來介紹壹下自己的列表吧",
     "list_introduction_err_tip": "不來介紹壹下列表嗎？",
     "set_private_list": "設為私有列表",
+    "allow_others_edit": "允许他人编辑",
     "btn_ok": "確認修改",
     "btn_cancel": "取 消"
   },
