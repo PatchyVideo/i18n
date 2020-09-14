@@ -5,7 +5,11 @@
     "title3": "Related tags",
     "video_action": "[Post video]",
     "prompt_action": "[Tag history]",
-    "edit": "Edit"
+    "edit": "Edit",
+    "author_detail": "Detail",
+    "subscribe": "Subscribe",
+    "unsubscribe": "Unsubscribe",
+    "subscribed": "Subscribed"
   },
   "tag_history": {
     "prompt": "Tag history",

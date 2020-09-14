@@ -5,7 +5,11 @@
     "title3": "相关标签",
     "video_action": "[使用标签发布视频]",
     "prompt_action": "[查看编辑标签历史]",
-    "edit": "编辑"
+    "edit": "编辑",
+    "author_detail": "详情",
+    "subscribe": "订阅",
+    "unsubscribe": "取消订阅",
+    "subscribed": "已订阅"
   },
   "tag_history": {
     "prompt": "标签编辑历史",
