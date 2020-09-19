@@ -1,5 +1,16 @@
 {
   "dialog_publish": {
-    "value": "你确定要使用当前标签发布\" {part} \"的索引吗？"
-  }
+    "value": "你确定要使用当前标签发布\" {part} \"的索引吗？",
+    "cancel": "取 消",
+    "ok": "确 定"
+  },
+  "prompt": "提示",
+  "video_parts": "视频选集",
+  "video_part_count": "本视频有{videoPages}个分P",
+  "no_multipart": "本视频没有分P",
+  "loading": "加载分P中",
+  "loading_post_status": "获取索引状态中",
+  "posted": "已索引",
+  "not_posted": "未索引!",
+  "click_to_post": "点击添加此分P的索引"
 }

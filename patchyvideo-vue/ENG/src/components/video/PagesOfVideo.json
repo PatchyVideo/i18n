@@ -1,5 +1,16 @@
 {
   "dialog_publish": {
-    "value": "Are you sure you want to post video using \"{part}\"?"
-  }
+    "value": "Are you sure you want to post video using \"{part}\"?",
+    "cancel": "Cancel",
+    "ok": "OK"
+  },
+  "prompt": "Confirm",
+  "video_parts": "Multipart video",
+  "video_part_count": "This video has {videoPages} parts",
+  "no_multipart": "This is not a multipart video",
+  "loading": "Loading parts",
+  "loading_post_status": "Loading posts",
+  "posted": "Posed",
+  "not_posted": "Not Posted",
+  "click_to_post": "Post this video"
 }
