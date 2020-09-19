@@ -22,6 +22,8 @@
   "no_previous_article": "没有前一篇了哦",
   "next_article": "后一篇",
   "no_next_article": "没有后一篇了哦",
+  "regular_player": "普通播放器",
+  "advanced_player": "高端播放器",
   "refresh": {
     "succeed": "更新成功！",
     "fail": "更新失败!"

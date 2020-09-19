@@ -22,6 +22,8 @@
   "no_previous_article": "No previous video",
   "next_article": "Next",
   "no_next_article": "No next video",
+  "regular_player": "Regular Player",
+  "advanced_player": "Advance Player",
   "refresh": {
     "succeed": "Update requested",
     "fail": "Update request failed"
