@@ -1,0 +1,25 @@
+{
+    "subtitle_ocr": "Subtitle OCR",
+    "support_prompt": "Note: Only Bilibili and YouTube videos are supported",
+    "ocr_status": "OCR state: {detail}({state})",
+    "request_ocr": "Request OCR",
+    "enable_auto_refresh": "Enable auto-refresh",
+    "disable_auto_refresh": "Disbale auto-refresh",
+    "refresh": "Refresh",
+    "close": "Close",
+    "state_detail": {
+        "NoRecord": "No OCR record found for this video",
+        "Queuing": "Video is queuing for OCR worker",
+        "Reserved": "An OCR worker has reserved this video for processing",
+        "PendingDownload": "该视频在识别器的等待下载队列中",
+        "Downloading": "Video is being donwloaded by OCR worker",
+        "PendingProcess": "该视频在识别器的等待识别队列中",
+        "Processing": "Video is being processed by OCR worker",
+        "RecordExists": "An OCR record exists for this video",
+        "RecordOutOfDate": "An OCR record exists for this video, but the video has been update, re-OCR is required",
+        "Error": "OCR worker exception, please contact admin for help",
+        "Unknown": "Invalid state"
+    },
+    "request_succeed": "OCR requested, you can refresh to see current OCR state while waiting.",
+    "request_failed": "Request failed, either this video has been processed or you are not logged in."
+}

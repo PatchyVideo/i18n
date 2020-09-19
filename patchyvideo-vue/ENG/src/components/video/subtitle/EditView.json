@@ -1,0 +1,21 @@
+{
+    "edit_subtitle": "Edit subtitle",
+    "subtitle_properties": "Subtitle properties",
+    "subtitle_type": "Subtitle type",
+    "subtitle_lang": "Subtitle language",
+    "subtitle_content": "Subtitle content",
+    "paste_prompt": "Paste subtitle file content or drag file to input text area (max file size 8MB)",
+    "edited": "(Edited)",
+    "drag_upload": "Drag to upload",
+    "delete": "Delete",
+    "submit": "Submit",
+    "close": "Close",
+    "update_failed": "Update failed",
+    "update_succeed": "Update succeed",
+    "delete_prompt": "This operation will delete this subtitle permanently, are you sure you want to continue?",
+    "confirm": "Confirm",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "delete_succeed": "Delete succeed",
+    "delete_failed": "Delete failed"
+}

@@ -1,0 +1,11 @@
+{
+    "subtitle_properties": "字幕属性",
+    "subtitle_type": "字幕类型：",
+    "subtitle_lang": "字幕语言：",
+    "subtitle_size": "字幕内容(~{size})",
+    "paste_prompt": "粘贴字幕文件内容或将文件拖入输入区（上限8MB）",
+    "drag_upload": "拖入以上传",
+    "upload": "上传",
+    "close": "关闭",
+    "upload_succeed": "上传成功！字幕ID：{r}"
+}

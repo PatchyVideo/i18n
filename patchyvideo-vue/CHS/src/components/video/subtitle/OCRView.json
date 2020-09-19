@@ -1,0 +1,25 @@
+{
+    "subtitle_ocr": "字幕识别",
+    "support_prompt": "注意：目前只支持Bilibili和YouTube",
+    "ocr_status": "识别状态：{detail}({state})",
+    "request_ocr": "申请识别",
+    "enable_auto_refresh": "开启自动刷新",
+    "disable_auto_refresh": "关闭自动刷新",
+    "refresh": "刷新",
+    "close": "关闭",
+    "state_detail": {
+        "NoRecord": "该视频不存在于视频识别系统的纪录中",
+        "Queuing": "该视频在队列中等待识别器处理",
+        "Reserved": "某个识别器拿到了该视频的独家识别授权",
+        "PendingDownload": "该视频在识别器的等待下载队列中",
+        "Downloading": "该视频正在被识别器下载",
+        "PendingProcess": "该视频在识别器的等待识别队列中",
+        "Processing": "该视频正在被识别器处理",
+        "RecordExists": "该视频已经被识别器处理过，字幕已经上传",
+        "RecordOutOfDate": "该视频已经被识别器处理过，但是视频内容被作者修改了，需要重新识别",
+        "Error": "识别器出错，多次重试均失败，请联系管理员处理",
+        "Unknown": "未知状态"
+    },
+    "request_succeed": "申请已提交！请等待识别。等待期间可以按刷新按钮刷新状态。",
+    "request_failed": "申请提交失败，可能是该视频已经被最新版求闻转译志识别过，或者你没有登录"
+}

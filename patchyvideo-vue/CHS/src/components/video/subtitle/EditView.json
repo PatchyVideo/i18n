@@ -1,0 +1,21 @@
+{
+    "edit_subtitle": "编辑字幕",
+    "subtitle_properties": "字幕属性",
+    "subtitle_type": "字幕类型",
+    "subtitle_lang": "字幕语言",
+    "subtitle_content": "字幕内容",
+    "paste_prompt": "粘贴字幕文件内容或将文件拖入输入区（上限8MB）",
+    "edited": "(已编辑)",
+    "drag_upload": "拖入以上传",
+    "delete": "删除",
+    "submit": "提交",
+    "close": "关闭",
+    "update_failed": "尝试修改内容失败",
+    "update_succeed": "修改成功",
+    "delete_prompt": "此操作将永久删除字幕信息，是否继续？",
+    "confirm": "提示",
+    "ok": "确定",
+    "cancel": "取消",
+    "delete_succeed": "删除成功",
+    "delete_failed": "删除失败"
+}

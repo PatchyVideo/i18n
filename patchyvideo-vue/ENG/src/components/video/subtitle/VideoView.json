@@ -1,0 +1,12 @@
+{
+    "subtitle_function": "Subtitles",
+    "beta": "Beta",
+    "subtitle_count": "This video has {len} subtitles",
+    "upload_subtitle": "Upload",
+    "refresh": "Refresh",
+    "ocr": "OCR",
+    "download": "Download",
+    "edit": "Edit",
+    "use": "Use(only Advance Player on Bilibili is supported)",
+    "ocr_version": "OCR worker version"
+}

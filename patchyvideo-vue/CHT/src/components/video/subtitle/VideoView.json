@@ -1,0 +1,12 @@
+{
+    "subtitle_function": "字幕文件",
+    "beta": "测试版",
+    "subtitle_count": "本视频有{len}个字幕",
+    "upload_subtitle": "上传字幕",
+    "refresh": "刷新",
+    "ocr": "字幕识别",
+    "download": "获取",
+    "edit": "编辑",
+    "use": "使用",
+    "ocr_version": "识别器版本"
+}

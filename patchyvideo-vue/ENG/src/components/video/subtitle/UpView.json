@@ -1,0 +1,11 @@
+{
+    "subtitle_properties": "Subtitle properties",
+    "subtitle_type": "Subtitle type: ",
+    "subtitle_lang": "Subtitle language: ",
+    "subtitle_size": "Subtitle content(~{size})",
+    "paste_prompt": "Paste subtitle file content or drag file to input text area (max file size 8MB)",
+    "drag_upload": "Drag to upload",
+    "upload": "Upload",
+    "close": "Close",
+    "upload_succeed": "Upload succeed, subtitle ID: {r}"
+}
