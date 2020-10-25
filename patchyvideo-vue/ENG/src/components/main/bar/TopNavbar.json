@@ -13,6 +13,7 @@
     "tag_text": "Tag/Text",
     "text": "Text only",
     "prompt": "Search...",
+    "prompt2": "Search...",
     "button": "Search"
   },
   "user": {

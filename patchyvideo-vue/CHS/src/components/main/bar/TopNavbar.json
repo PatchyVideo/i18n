@@ -13,6 +13,7 @@
     "tag_text": "标签/文本",
     "text": "仅文本",
     "prompt": "请输入标签",
+    "prompt2": "请输入文本",
     "button": "搜索"
   },
   "user": {

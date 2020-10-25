@@ -1,6 +1,6 @@
 {
   "navbar": { "index": "首頁", "playlist": "播放列表", "postvideo": "發布視頻", "edittag": "標簽" },
-  "search": { "tag_text": "標簽/文本", "text": "僅文本", "prompt": "請輸入標簽", "button": "搜索" },
+  "search": { "tag_text": "標簽/文本", "text": "僅文本", "prompt": "請輸入標簽", "prompt2": "請輸入文本", "button": "搜索" },
   "user": {
     "signup": "註冊",
     "login": "登錄",
