@@ -8,6 +8,7 @@
   "oldest": "Oldest",
   "latest_video": "Latest upload",
   "oldest_video": "Oldest upload",
+  "last_modified": "Last modified",
   "popular_tags": "Popular tags",
   "search_result": "Search - {result}",
   "syntax_error": "Search syntax error",

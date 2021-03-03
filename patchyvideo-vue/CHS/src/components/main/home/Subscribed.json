@@ -8,6 +8,7 @@
   "oldest": "发布时间倒序",
   "latest_video": "原视频上传时间正序",
   "oldest_video": "原视频上传时间倒序",
+  "last_modified": "最近修改",
   "popular_tags": "热门标签",
   "search_result": "搜索结果 - {result}",
   "syntax_error": "查询语法错误！",
