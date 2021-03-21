@@ -1,0 +1,41 @@
+{
+  "title": "用户概管理",
+  "latest": "时间正序",
+  "oldest": "时间倒序",
+  "edit_dialog": {
+    "title": "编辑呢个用户: {username}"
+  },
+  "search": {
+    "submit": "揾",
+    "placeholder": "揾用户名...",
+    "options": {
+      "latest": "时间正序",
+      "oldest": "时间倒序"
+    }
+  },
+  "user_info": {
+    "username": "用户名",
+    "avatar": "头像",
+    "desc": "描述",
+    "email": "邮箱",
+    "cdate": "创建日期",
+    "pubkey": "pubkey",
+    "blacklist": "黑名单设置",
+    "status": {
+      "label": "访问概等级"
+    },
+    "access_mode": {
+      "label": "访问概模式"
+    },
+    "allowed_ops": {
+      "label": "允许概操作"
+    },
+    "denied_ops": {
+      "label": "拒绝概操作"
+    },
+    "edit": {
+      "label": "操作",
+      "value": "编辑"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "para_settings": "网站参数概设置",
+  "para_change": {
+    "title": "提示",
+    "value": "你系吾系要修改参数 {targetPara} 为：\n{newTargetPara}\n？"
+  },
+  "para_switch": {
+    "active-text": "编辑",
+    "inactive-text": "查看"
+  },
+  "para_update": "更新"
+}
