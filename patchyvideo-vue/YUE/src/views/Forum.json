@@ -1,0 +1,16 @@
+{
+  "hint": {
+    "title": "欢迎来到 PatchyVideo 概讨论板",
+    "desc": "最后更新时间：{version}\n讨论板仍在最初测试阶段，有很多功能可能不够完善，仅供测试。\n语法介绍：{wikilink}\n如有任何意见可尝试在反馈板提出。"
+  },
+  "table": {
+    "empty-text": "少女祈祷中...",
+    "forum": "板块"
+  },
+  "forumList": {
+    "5e8fce11beb63ebb98f8b50c": {
+      "name": "意见反馈",
+      "desc": "在这里反馈在帕琪站遇到的问题~"
+    }
+  }
+}

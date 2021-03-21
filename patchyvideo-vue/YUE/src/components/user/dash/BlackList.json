@@ -1,0 +1,11 @@
+{
+  "default_blacklist": "默认黑名单",
+  "custom_blacklist": "自定义黑名单",
+  "blacklist_empty_prompt": "黑名单系空概",
+  "Input_tags": "请输入标签",
+  "blacklist_enter_prompt": "黑名单输入框",
+  "add_blacklist": "添加黑名单",
+  "remove_all_blacklist": "移除所有概黑名单",
+  "load_blacklist": "加载黑名单概列表",
+  "use": "使用"
+}

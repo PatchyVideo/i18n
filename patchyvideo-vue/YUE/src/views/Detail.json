@@ -1,0 +1,76 @@
+{
+  "favorite": "收藏",
+  "modify": "修改",
+  "copy": "副本",
+  "copies_num": "呢个视频有{count}个副本",
+  "add_copy": "添加副本",
+  "del_copy": "删除副本",
+  "sync_replica_label": "同步副本概标签",
+  "sync_replica_label_from": "从此副本同步标签",
+  "playlist": "播放列表",
+  "playlists_num": "此视频睇{count}个播放列表入边",
+  "management": "视频等级管理",
+  "choose_type": "请选择发布概类型！",
+  "official": "原始发布",
+  "official_repost": "官方再发布",
+  "authorized_translation": "授权翻译",
+  "authorized_repost": "授权转载",
+  "translation": "自发翻译",
+  "repost": "自发搬运",
+  "unknown": "其他",
+  "previous_article": "前一篇",
+  "no_previous_article": "冇前一篇了哦",
+  "next_article": "后一篇",
+  "no_next_article": "冇后一篇了哦",
+  "refresh": {
+    "succeed": "更新成功！",
+    "fail": "更新失败!"
+  },
+  "infotip": {
+    "title": "修改视频概发布类型",
+    "release_type": "请修改视频概发布类型",
+    "nocopies": "此视频冇其他概副本",
+    "noplaylist": "本视频冇睇任何概播放列表入边",
+    "create_playlist": "由此视频创建播放列表"
+  },
+  "changeRank": {
+    "title": "请修改视频概等级",
+    "ranks": ["就得管理员可以睇到", "登录用户概可以睇到", "发布者和管理员可以睇到", "所有人都可以睇到"],
+    "succeed": "修改成功！",
+    "fail": "修改失败，请重新试过!"
+  },
+  "addTo": {
+    "title": "添加到列表",
+    "newList": "新建列表:",
+    "search": "搜索我概列表...",
+    "private": "[私密]",
+    "exist": "[已有此视频]",
+    "total": "共{count}个视频",
+    "NULL": "您未有视频列表！",
+    "succeed": "添加成功！",
+    "fail": "添加失败!"
+  },
+  "copies": {
+    "succeed": "副本添加成功！",
+    "fail": "副本添加失败!",
+    "unauthorized": "登录信息错误，请重新登录！"
+  },
+  "delet_copies": {
+    "title": "提示",
+    "confirm": "系吾系要删除？"
+  },
+  "async": {
+    "succeed": "同步成功！",
+    "fail": "同步失败!"
+  },
+  "URL_copy": {
+    "share_URL": "分享链接",
+    "succeed": "视频链接复制成功",
+    "fail": "视频链接复制失败"
+  },
+  "succeed": "成功!",
+  "fail": "失败!",
+  "unknow_err": "未知错误",
+  "cancel": "取 消",
+  "confirm": "确 定"
+}

@@ -1,0 +1,26 @@
+{
+  "__i18n_global": true,
+  "page_count": "揾到佐 {count} / {maxcount} 个视频",
+  "no_result": "冇揾到订阅佐概视频",
+  "show_deleted": "显示失效佐概视频",
+  "blacklist_prompt": "*屏蔽佐含有敏感标签的视频，可以睇个人界面设置",
+  "latest": "发布时间正序",
+  "oldest": "发布时间倒序",
+  "latest_video": "原视频上传时间正序",
+  "oldest_video": "原视频上传时间倒序",
+  "popular_tags": "热门概标签",
+  "search_result": "搜索结果 - {result}",
+  "syntax_error": "查询语法错误！",
+  "syntax_error_not": "所输入的查询不能与NOT连用！",
+  "see_uploaders": "睇下上传者系边个",
+  "nodesc": "呢个视频没有简介",
+  "copy_link": {
+    "title": "分享链接",
+    "info": "视频链接复制 {status}！",
+    "confirm": "确定",
+    "status": {
+      "ok": "成功",
+      "fail": "失败"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "log_view": "日志查看",
+  "log_type": {
+    "value": " 日志类型: ",
+    "placeholder": "请拣一个日志类型",
+    "types": {
+      "1": "原来概日志",
+      "2": "整合之后概日志"
+    }
+  },
+  "log_time_range": {
+    "value": " 时间范围: ",
+    "range-separator": "至",
+    "start-placeholder": "开始时间",
+    "end-placeholder": "结束时间"
+  },
+  "opname": {
+    "value": "操作名",
+    "placeholder": "操作名(可拣)"
+  },
+  "log_find": "揾",
+  "form_options": {
+    "latest": "时间正序",
+    "oldest": "时间倒序"
+  },
+  "log_level": {
+    "value": "级别",
+    "options": {
+      "all": "全部",
+      "SEC": "授权",
+      "MSG": "信息",
+      "WARN": "警告",
+      "ERR": "错误"
+    }
+  },
+  "log_info": {
+    "value": "详细概日志"
+  },
+  "log_date": {
+    "label": "日期"
+  },
+  "log_obj": {
+    "value": "对象概日志"
+  }
+}

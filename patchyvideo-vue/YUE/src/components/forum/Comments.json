@@ -1,0 +1,48 @@
+{
+  "comment": "评论",
+  "manage": {
+    "msg": {
+      "ok": "成功！",
+      "fail": "失败，请检查呢概网络！"
+    },
+    "label": "管理",
+    "title": "选择操作",
+    "del": "删除评论",
+    "hide": "隐藏评论"
+  },
+  "count": {
+    "value": "一共{length}条评论",
+    "null": "冇评论！"
+  },
+  "post": {
+    "cfg": {
+      "usingEnter": "用呢个Enter键嚟发表你概评论"
+    },
+    "msg": {
+      "nullc": "输入你概内容！",
+      "ok": "成功！",
+      "fail": "失败，请检查你概网络！"
+    },
+    "placeholder": "说点儿乜鬼嘢都好~",
+    "term": "记得遵守{rules}哟",
+    "rules": "评论概规则",
+    "face": "表情",
+    "emoji": "Emoji",
+    "submit": "发表"
+  },
+  "join": {
+    "text": "想要一起参与呢个讨论？{login}",
+    "login": "点我登录"
+  },
+  "child": {
+    "placeholder": "回复佢",
+    "label": " 回复",
+    "show": "查看{length}条回复",
+    "hide": "收起回复"
+  },
+  "reply": "回复",
+  "hidden": "该评论被隐藏佐",
+  "deleted": "抱歉，该评论被删除佐",
+  "open": "点我展开",
+  "getFailed": "获取评论失败，请检查呢个网络！"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "图片裁剪",
+  "cancel": "取消",
+  "ok": "确定",
+  "upload_userphoto": "上传头像",
+  "enter_url_prompt": "请输入图片URL",
+  "from_file": "本地上传",
+  "from_url": "网络上传",
+  "upload": "上传",
+  "no_file_prompt": "请选择要上传概头像!",
+  "file_size_prompt": "上传头像概图片大小唔得超过2MB!",
+  "upload_succeed": "上传成功！",
+  "no_url_prompt": "请输入链接!",
+  "INCORRECT_UPLOAD_TYPE": "上传概文件不支持呢个图片概格式!",
+  "upload_failed": "上传失败！",
+  "open_failed": "选择图片失败"
+}

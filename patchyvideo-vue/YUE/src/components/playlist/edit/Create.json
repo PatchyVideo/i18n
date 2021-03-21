@@ -1,0 +1,14 @@
+{
+  "this_is_playlist_title": "呢度系列表标题",
+  "describe_your_playlist": "来介绍一下呢自己的列表~",
+  "set_as_private_playlist": "设置成私有概列表",
+  "create_now": "立即创建一个",
+  "no_title_prompt": "未有输入标题呢",
+  "no_desc_prompt": "唔介绍下列表咩？",
+  "one_cover_prompt": "只可以上传一个封面！",
+  "delete_confirm_prompt": "系吾系要移除 {name}？",
+  "create_failed": "列表创建失败，请重新试过一次！",
+  "not_login": "登录验证失败，请先登录！",
+  "create_succeed": "列表创建成功！",
+  "showListRules": "睇下创建播放列表概规则"
+}

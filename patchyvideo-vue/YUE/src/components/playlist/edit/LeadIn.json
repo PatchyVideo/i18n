@@ -1,0 +1,8 @@
+{
+  "prompt": "呢度可以直接导入播放列表，但是请注意，本功能仅限于b站概收藏夹、YouTube概播放列表同nicovideo的概mylist哦",
+  "url_placeholder": "在这里输入列表概网址",
+  "upload_now": "立即导入",
+  "no_url_prompt": "还未有输入地址",
+  "upload_failed": "列表导入失败，检查下地址系吾系正确概！",
+  "upload_succeed": "列表导入成功！"
+}

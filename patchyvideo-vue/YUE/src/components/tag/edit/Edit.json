@@ -1,0 +1,13 @@
+{
+  "enter_tag": "输入标签",
+  "edit_common_tags": "编辑共有概标签",
+  "tag_already_exist": "标签本嚟就喺呢度",
+  "tag_not_exist": "标签冇睇呢度",
+  "recommnad_tags": "推荐概标签：",
+  "save": "保存修改",
+  "cancel": "不保存关闭",
+  "issave": "已经修改tag但没有保存,系吾系要保存?",
+  "tag_add_succeed": "Tag添加成功！",
+  "tag_modify_succeed": "修改成功！",
+  "unknown_error": "未知概错误"
+}
